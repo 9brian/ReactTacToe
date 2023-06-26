@@ -6,7 +6,6 @@ First dive into React, my goal is to create a fully functional React Tic Tac Toe
 
 ## How to run this project:
 
-<br><br>
 Install [Node.js](https://nodejs.org/en)
 <br><br>
 Navigate into the project directory, <strong>which is ljg0t8</strong>
