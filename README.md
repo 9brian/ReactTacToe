@@ -13,3 +13,7 @@ Navigate into the project directory, <strong>which is ljg0t8</strong>
 Run <strong>`npm install`</strong> to download all dependencies and packages required for running the application locally.
 <br><br>
 Finally, Run <strong>`npm start`</strong> to start a local server.
+
+## Final Output:
+
+![image](./public/images/tictactoe.png "Final output")
